@@ -1,2 +1,2 @@
-# Ro-yhatlani-solishtirish
-you can see how to compare two list
+# python 
+you can see how to code in python
